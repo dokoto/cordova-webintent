@@ -1,0 +1,26 @@
+
+{
+  "name": "cordova-webintent",
+  "version": "0.0.1",
+  "description": "webintent for Apache Cordova.",
+  "cordova": {
+    "id": "cordova-webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dokoto/cordova-webintent.git"
+  },
+  "keywords": [
+    "cordova",
+    "auth",
+    "basic",
+    "cordova-android"
+  ],
+  "peerDependencies": {
+  },
+  "author": "dokoto.moloko@gmail.com",
+  "license": "BSD-Like"
+}
